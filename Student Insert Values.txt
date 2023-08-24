@@ -1,0 +1,59 @@
+INSERT INTO Student
+VALUES(10001, "Jose", "M", "IT", 2018)
+
+INSERT INTO Student
+VALUES(10002, "Mika", "F", "SE", 2017)
+
+INSERT INTO Student
+VALUES(10003, "Justin", " ", "HM", 2017)
+
+INSERT INTO Student
+VALUES(10004, "Elira", "F", "VA", 2019)
+
+INSERT INTO Student
+VALUES(10005, "Rose", "F", "VA", 2020)
+
+INSERT INTO Student
+VALUES(10006, "Selen", "F", "IT", 2019)
+
+INSERT INTO Student
+VALUES(10007, "Millie", " ", "AN", 2019)
+
+INSERT INTO Student
+VALUES(10008, "Nina", "F", "VA", 2020)
+
+INSERT INTO Student
+VALUES(10009, "Kuzuha", "M", " ", 2018)
+
+INSERT INTO Student
+VALUES(10010, "Connor", " ", "VA", 2018)
+
+INSERT INTO Student
+VALUES(10011, "Garnt", "M", " ", 2019)
+
+INSERT INTO Student
+VALUES(10012, "Charlie", "M", "IT", 2017)
+
+INSERT INTO Student
+VALUES(10013, "Joe", " ", " ", 2017)
+
+INSERT INTO Student
+VALUES(10014, "Seth", "M", "AN", 2020)
+
+INSERT INTO Student
+VALUES(10015, "Mitch", "M", "HM", 2019)
+
+INSERT INTO Student
+VALUES(10016, "Ross", "M", "AN", 2018)
+
+INSERT INTO Student
+VALUES(10017, "Vander", "M", "IT", 2018)
+
+INSERT INTO Student
+VALUES(10018, "Sydney", "F", "VA", 2019)
+
+INSERT INTO Student
+VALUES(10019, "Juan", "M", "HM", 2020)
+
+INSERT INTO Student
+VALUES(10020, "Janella", "F", "HM", 2019)

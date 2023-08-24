@@ -1,0 +1,11 @@
+INSERT INTO Subject
+VALUES("FILPIN2", "Filipino", 6, "FILIPIN1")
+
+INSERT INTO Subject
+VALUES("ACTING1", "Acting", 8, " ")
+
+INSERT INTO Subject
+VALUES("COMPROG1", "Computer Programming", 8, " ")
+
+INSERT INTO Subject
+VALUES("ANIMATE1", "Animation", 8, " ")
